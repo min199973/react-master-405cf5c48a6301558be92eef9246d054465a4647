@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-master-405cf5c48a6301558be92eef9246d054465a4647.git/static/js/main.b0e17c66.js",
-    "index.html": "/react-master-405cf5c48a6301558be92eef9246d054465a4647.git/index.html",
-    "main.b0e17c66.js.map": "/react-master-405cf5c48a6301558be92eef9246d054465a4647.git/static/js/main.b0e17c66.js.map"
+    "main.js": "/react-master-405cf5c48a6301558be92eef9246d054465a4647/static/js/main.582eadac.js",
+    "index.html": "/react-master-405cf5c48a6301558be92eef9246d054465a4647/index.html",
+    "main.582eadac.js.map": "/react-master-405cf5c48a6301558be92eef9246d054465a4647/static/js/main.582eadac.js.map"
   },
   "entrypoints": [
-    "static/js/main.b0e17c66.js"
+    "static/js/main.582eadac.js"
   ]
 }
